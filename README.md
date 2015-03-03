@@ -1,6 +1,9 @@
 # yo
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+This project is modified from [yo angular generator](https://github.com/yeoman/generator-angular).
+
+# Featured Based AngularJS
+
 version 0.11.1.
 
 ## Build & development
