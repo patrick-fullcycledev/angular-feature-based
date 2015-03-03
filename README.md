@@ -1,14 +1,7 @@
-# yo
+# AngularJS with Feature-based Module
 
-This project is modified from [yo angular generator](https://github.com/yeoman/generator-angular).
 
-# Featured Based AngularJS
-
-version 0.11.1.
-
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
+This project is modified from [yo angular generator](https://github.com/yeoman/generator-angular version 0.11.1.).
 
 ## Testing
 
